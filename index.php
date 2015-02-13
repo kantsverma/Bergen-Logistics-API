@@ -8,7 +8,7 @@
 ?>
 <html>
 <head>
-<title>PHP SOAP Test</title>
+<title>Php Soap Test</title>
 <style type="text/css">
 body, html {font-family: Helvetica, Verdana, Arial; margin:10px; padding:0px; font-size:12px;}
 div.xml {height:200px;width:100%;overflow:auto;border:solid 1px #999;}
